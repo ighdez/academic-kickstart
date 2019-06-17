@@ -18,27 +18,51 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Lecturer"
+  company = "San Sebastian University"
+  company_url = "http://www.uss.cl"
+  location = "Concepcion, Chile"
+  date_start = "2017-06-01"
+  date_end = "2018-07-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Thaught the following courses:
+
+  * Intermediate Microeconomics
+  * Basic Microeconomics
+  * Basic Econometrics
+  * Introductory Economics
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "Center for the Study of Multiple Drivers on Marine Socioecological Systems (MUSELS)"
+  company_url = "http://www.eula.cl/musels"
+  location = "Concepcion, Chile"
+  date_start = "2016-02-01"
+  date_end = "2018-07-31"
+  description = """
+  Responsibilities include:
 
+  * Design of Choice Experiments
+  * Survey Design
+  * Interviewers Training
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "School of Bussiness and Economics, Universidad del Desarrollo"
+  company_url = "http://www.udd.cl"
+  location = "Concepcion, Chile"
+  date_start = "2015-03-01"
+  date_end = "2018-07-31"
+  description = """"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Department of Economics, Universidad de Concepcion"
+  company_url = "http://www.udec.cl"
+  location = "Concepcion, Chile"
+  date_start = "2012-06-01"
+  date_end = "2016-01-31"
+  description = """"""
 +++
