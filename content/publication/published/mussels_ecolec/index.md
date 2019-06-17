@@ -23,8 +23,7 @@ publication_types:
 - "2"
 publishDate: "2019-04-01T00:00:00Z"
 slides:
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We use a discrete choice experiment to analyze consumers' preferences for OA affected attributes on mussels aquaculture, contrasting our results with industry concerns.
 tags:
 - Ocean Acidification
 - Mussels Aquaculture

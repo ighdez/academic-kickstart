@@ -20,8 +20,7 @@ publication_types:
 - "2"
 publishDate: "2016-07-08T00:00:00Z"
 slides:
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We use a numerical certainty scale to adjust answers to a valuation question aiming to correct for hypothetical bias associated with stated preference methods.
 tags:
 - Payment for Ecosystem Services
 - Contingent Valuation

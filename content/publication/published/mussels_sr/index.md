@@ -23,8 +23,7 @@ publication_types:
 - "2"
 publishDate: "2019-03-01T00:00:00Z"
 slides:
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We experimentally test the impact of OA on commercially relevant physical and nutritional attributes of mussels, and then we use economic discrete choice models to assess the marginal effects of these impacts over consumers’ preferences and wellbeing.
 tags:
 - Ocean Acidification
 - Mussels Aquaculture

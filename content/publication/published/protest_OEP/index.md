@@ -20,8 +20,7 @@ publication_types:
 - "2"
 publishDate: "2017-11-08T00:00:00Z"
 slides:
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We undertake a survey that estimates WTP and WTA measures for changes in the risk of being a victim of a robbery or theft in the UK, taking into account the high prevalence of protest responses.
 tags:
 - Protest Treatment
 - Contingent Valuation

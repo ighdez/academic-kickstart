@@ -20,8 +20,7 @@ publication_types:
 - "2"
 publishDate: "2017-07-10T00:00:00Z"
 slides:
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A discrete continuous choice model of the residential water demand is estimated using six functional forms, analyzing how they can affect price elasticity and expected consumption.
 tags:
 - Discrete-Continuous Choice Models
 - Residential Water Demand

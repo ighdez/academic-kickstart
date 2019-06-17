@@ -22,8 +22,7 @@ publication_types:
 - "2"
 publishDate: "2019-02-01T00:00:00Z"
 slides:
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present a joint estimation of the willingness to pay for conservation activities aimed at preserving the flow of ecosystem services provided by a marine protected area network and respondents’ personal discount rate using a contingent valuation survey.
 tags:
 - Hyperbolic Discounting
 - Marine Protected Areas
