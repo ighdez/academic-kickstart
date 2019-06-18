@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Example"
+title: "Welcome!"
 subtitle: ""
-summary: ""
+summary: "Let's see how it works that"
 authors: []
 tags: []
 categories: []
@@ -27,3 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Hello! I will start to use that place as a blog to publish some stuff. That's my first post so it is some kind of test. Hope it works well.
+
+Saludos!
