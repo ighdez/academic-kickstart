@@ -30,6 +30,13 @@ projects: []
 
 Hello! I will start to use that place as a blog to publish some stuff. That's my first post so it is some kind of test. Hope it works well.
 
-{{< gallery album="images" >}}
+<!-- {{< gallery album="images" >}} -->
+
+<!-- gallery_item:
+- album: <ALBUM FOLDER>
+  image: <IMAGE NAME>.jpg
+  caption: Write your image caption here -->
+
+<!-- {{< figure src="image.jpg" title="A caption" >}} -->
 
 Saludos!
