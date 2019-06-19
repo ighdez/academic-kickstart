@@ -3,14 +3,14 @@
 
 title: "Welcome!"
 subtitle: ""
-summary: "Let's see how it works that"
+summary: "Let's see how it works"
 authors: []
 tags: []
 categories: []
 date: 2019-06-18T14:42:15+02:00
 lastmod: 2019-06-18T14:42:15+02:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
