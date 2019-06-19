@@ -30,4 +30,6 @@ projects: []
 
 Hello! I will start to use that place as a blog to publish some stuff. That's my first post so it is some kind of test. Hope it works well.
 
+![Example](static/img/im.jpg)
+
 Saludos!
