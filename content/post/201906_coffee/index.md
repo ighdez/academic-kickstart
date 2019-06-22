@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Miss Morrison: Coffee roasters in Delft!"
-subtitle: "I'm gonna stay there forever :laughing:"
+subtitle: "I'm gonna stay there forever"
 summary: ""
 authors: []
 tags: []
