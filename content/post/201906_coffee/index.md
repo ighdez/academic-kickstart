@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Hi everyone! I found a very good place to supply myself of coffee. The name is **Miss Morrison** and it's located in Delft city Center, very close of the old church.
+Hi everyone! I found a very good place to supply myself of coffee. The name is Miss Morrison and it's located in Delft city Center, very close of the old church.
 
 Some pictures below:
 
