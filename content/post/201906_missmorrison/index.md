@@ -28,4 +28,6 @@ image:
 projects: []
 ---
 
-Hey! I found a new cafeteria in Delft: **Miss Morrison**. These guys roast their own coffee regularly and last time I saw at least five varieties, including a blend that fits perfectly with my Aeropress. 
+Hey! I found a new cafeteria in Delft: **Miss Morrison**. These guys roast their own coffee regularly and last time I saw at least five varieties, including a blend that fits perfectly with my Aeropress.
+
+{{< gallery album="images" >}}
