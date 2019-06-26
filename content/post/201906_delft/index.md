@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Hi everyone! As some of you know, I've recently moved to the Netherlands to start my PhD studies in the Faculty of Transport, Policy and Management of TU Delft. I will work in the Participatory Value Evaluation method, applied for economic problems from a choice modelling point of view.
+Hi everyone! As some of you know, I've recently moved to the Netherlands to start my PhD studies in the Faculty of Technology, Policy and Management of TU Delft. I will work in the Participatory Value Evaluation method, applied for economic problems from a choice modelling point of view.
 
 I will start next Monday, so I've left these last days to be in touch with Dutch society, meet new places and, for sure, taste coffee places (I make the distinction with coffee shops :laughing:).
 

@@ -75,4 +75,4 @@ I'm from Concepcion, a city located in southern Chile. There I pursued my Bachel
 
 After my graduation, I worked as a Reserach Assistant in the School of Bussiness and Economics of Universidad del Desarrollo, and for the Center for the Study of Multiple Drivers on Marine Socioecological Systems (MUSELS). During those three years I contributed on the development of interdisciplinary research about consumers' preferences for avoiding Ocean Acidification effecs in marine resouces from the Aquaculture industry in southern Chile.
 
-Today, I am a PhD Student of the Faculty of Transport, Policy and Management in the Delft University of Technology in Netherlands. I will work on the Participatory Value Evaluation Method and their extensions from both Choice Modelling and Economic approaches.
+Today, I am a PhD Student of the Faculty of Technology, Policy and Management in the Delft University of Technology in Netherlands. I will work on the Participatory Value Evaluation Method and their extensions from both Choice Modelling and Economic approaches.
