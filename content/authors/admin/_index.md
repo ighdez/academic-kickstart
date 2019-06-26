@@ -71,8 +71,10 @@ user_groups:
 - Visitors
 ---
 
-I'm from Concepcion, a city located in southern Chile. There I pursued my Bachelor and my Master in Environmental and Natural Resource Economics in the University of Concepcion.
+**Welcome to my website!** I'm a Chilean Environmental and Natural Resource Economist.
 
-After my graduation, I worked as a Reserach Assistant in the School of Bussiness and Economics of Universidad del Desarrollo, and for the Center for the Study of Multiple Drivers on Marine Socioecological Systems (MUSELS). During those three years I contributed on the development of interdisciplinary research about consumers' preferences for avoiding Ocean Acidification effecs in marine resouces from the Aquaculture industry in southern Chile.
+During most of the time I'm a PhD student at the Delft University of Technology, in the Netherlands, focusing on developing my research project on Participatory Value Evaluation and their extensions.
 
-Today, I am a PhD Student of the Faculty of Technology, Policy and Management in the Delft University of Technology in Netherlands. I will work on the Participatory Value Evaluation Method and their extensions from both Choice Modelling and Economic approaches.
+In my free times I refill my caffeine requirements visiting some new cafeterias, bringing my camera to capture some good moments, mostly sunsets (I suck taking day pictures).
+
+Some nights I try to improve my programming skills trying to link it with my research interests (see below). I use mostly R and Matlab, and I am learning Python at utilitary level, and more recently the Julia programming language.
