@@ -73,7 +73,7 @@ user_groups:
 
 **Welcome to my website!** I'm a Chilean Environmental and Natural Resource Economist.
 
-I'm a PhD Candidate at the Delft University of Technology, in the Netherlands. My research is focused on assessing to which extent ethical concerns can influence citizens' acceptance of public projects, using [Participatory Value Evaluation](http://tudelft.nl/pwe), a new method that combines a [Participatory Budgeting](http://pve.splicedgene.com/participatory-value-evaluation-transport-authority-amsterdam) experimental framework, and Behavioral Choice Models.
+I'm a PhD Candidate at the Delft University of Technology, in the Netherlands. My research is focused on assessing to which extent ethical concerns can influence citizens' acceptance of public projects, using [Participatory Value Evaluation](http://tudelft.nl/pwe), a new method that combines [Participatory Budgeting](http://pve.splicedgene.com/participatory-value-evaluation-transport-authority-amsterdam) experimental framework, with Behavioral Choice Models.
 
 In my free times I refill my caffeine requirements visiting new coffee places, bringing my camera to capture some good moments, mostly sunsets (I suck taking day pictures).
 
