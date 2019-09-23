@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,9 +18,10 @@ organizations:
   url: "https://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Environmental and Natural Resource Economist, currently as PhD Student at TU Delft. My research interests are focused on choice modelling, applied econometrics and non-market valuation.
+bio: Environmental and Natural Resource Economist, currently pursuing my PhD at TU Delft. My research interests are focused in public policy assessment, choice modelling and non-market valuation.
 
 interests:
+- Public Policy Assessment
 - Choice Modelling
 - Natural Resource Economics
 - Environmental Economics
@@ -28,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD student
+  - course: PhD Candidate
     institution: Delft University of Technology, Netherlands
     year: 2019
   - course: Master in Environmental and Natural Resource Economics
@@ -57,12 +58,12 @@ social:
   link: https://github.com/ighdez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "joseignaciohernandezh@gmail.com"
+email: "j.i.hernandez@tudelft.nl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -75,6 +76,4 @@ user_groups:
 
 I'm a PhD Candidate at the Delft University of Technology, in the Netherlands. My research is focused on assessing to which extent ethical concerns can influence citizens' acceptance of public projects, using [Participatory Value Evaluation](http://tudelft.nl/pwe), a new method that combines [Participatory Budgeting](http://pve.splicedgene.com/participatory-value-evaluation-transport-authority-amsterdam) experimental framework, with Behavioral Choice Models.
 
-In my free times I refill my caffeine requirements visiting new coffee places, bringing my camera to capture some good moments, mostly sunsets (I suck taking day pictures).
-
-Some nights I try to improve my programming skills trying to link it with my research interests (see below). I use mostly R and Matlab, and I am learning Python at utilitary level, and more recently the Julia programming language.
+In my free times I refill my caffeine requirements visiting new coffee places, bringing my camera to capture some good moments, mostly sunsets (I suck taking day pictures). Sometimes I also try to improve my programming skills trying to link it with my research interests (see below). I use mostly R and Matlab, and I am learning Python at utilitary level, and more recently the [Julia programming language](https://julialang.org/).
