@@ -3,7 +3,7 @@
 
 title: "[En español] Curso online de Introduccion a la econometria"
 subtitle: ""
-summary: "Totalmente gratuito!"
+summary: "Totalmente gratuito y online!"
 authors: []
 tags: []
 categories: []
