@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Miss Morrison: My new favourite place to fill my coffee supplies"
+title: "[En español] Curso online de Introduccion a la econometria"
 subtitle: ""
-summary: "I found my weekly coffee dealer!"
+summary: "Totalmente gratuito!"
 authors: []
 tags: []
 categories: []
-date: 2019-06-26T22:14:57+02:00
-lastmod: 2019-06-26T22:14:57+02:00
+date: 2020-03-21T22:14:57+02:00
+lastmod: 2020-03-21T22:14:57+02:00
 featured: false
 draft: false
 
@@ -28,8 +28,17 @@ image:
 projects: []
 ---
 
-Hey! I found a new cafeteria in Delft: **Miss Morrison**. These guys roast their own coffee regularly and last time I saw at least five varieties, including a blend that fits perfectly with my Aeropress.
+Como algunos ya saben, estoy montando un curso online de **introduccion a la econometria**. Ire subiendo cada sesion en este post.
 
-Some pictures below:
+Pueden acceder al curso desde los link indicados abajo:
 
-{{< gallery album="images" >}}
+* Clase 0: Presentacion del curso.
+  + ![Syllabus](syllabus_intro_econometria.pdf)
+  + [Video de presentacion](https://youtu.be/-olsXU62SeY)
+
+* Clase 1: Introduccion
+  + [Video de sesion teorica](https://youtu.be/qpBmjcXG3oc)
+  + ![Notas de clase](clase_1.pdf)
+  + ![Presentacion](clase_1_pres.pdf)
+  + Video de sesion practica
+  + Script
