@@ -32,12 +32,12 @@ Como algunos ya saben, estoy montando un curso online de **introduccion a la eco
 Pueden acceder al curso desde los link indicados abajo:
 
 * Clase 0: Presentacion del curso.
-  + ![Syllabus](syllabus_intro_econometria.pdf)
+  + [Syllabus](syllabus_intro_econometria.pdf)
   + [Video de presentacion](https://youtu.be/-olsXU62SeY)
 
 * Clase 1: Introduccion
   + [Video de sesion teorica](https://youtu.be/qpBmjcXG3oc)
-  + ![Notas de clase](clase_1.pdf)
-  + ![Presentacion](clase_1_pres.pdf)
+  + [Notas de clase](clase_1.pdf)
+  + [Presentacion](clase_1_pres.pdf)
   + Video de sesion practica
   + Script
