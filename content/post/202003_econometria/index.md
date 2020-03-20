@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "202003_econometria"
-subtitle: ""
+title: "Curso online de introduccion a la econometria"
+subtitle: "Totalmente gratuito y online"
 summary: ""
 authors: []
 tags: []
