@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "[En español] Curso online de Introduccion a la econometria"
+title: "202003_econometria"
 subtitle: ""
-summary: "Totalmente gratuito y online!"
+summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-03-21T22:14:57+02:00
-lastmod: 2020-03-21T22:14:57+02:00
+date: 2020-03-21T00:44:04+01:00
+lastmod: 2020-03-21T00:44:04+01:00
 featured: false
 draft: false
 
@@ -27,7 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
 Como algunos ya saben, estoy montando un curso online de **introduccion a la econometria**. Ire subiendo cada sesion en este post.
 
 Pueden acceder al curso desde los link indicados abajo:
