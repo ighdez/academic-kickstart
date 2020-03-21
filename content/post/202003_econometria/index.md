@@ -39,5 +39,9 @@ Pueden acceder al curso desde los link indicados abajo:
   + [Video de sesion teorica](https://youtu.be/qpBmjcXG3oc)
   + [Notas de clase](clase_1.pdf)
   + [Presentacion](clase_1_pres.pdf)
-  + Video de sesion practica
-  + Script
+  + [Video de sesion practica (parte 1)](https://youtu.be/ab-EHHPKr1w)
+  + [Video de sesion practica (parte 2)](https://youtu.be/WTc6F9o4rbM)
+  + [Video de sesion practica (parte 3)](https://youtu.be/owuknUzTWd4)
+  + [Script](clase1.R)
+
+* Clase 2: Elementos de estadistica y probabilidad (proximamente...)
