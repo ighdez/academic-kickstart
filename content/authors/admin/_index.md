@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate
+  - course: PhD
     institution: Delft University of Technology, Netherlands
     year: 2019
   - course: Master in Environmental and Natural Resource Economics
@@ -74,6 +74,6 @@ user_groups:
 
 **Welcome to my website!** I'm a Chilean Environmental and Natural Resource Economist.
 
-I'm a PhD Candidate at the Delft University of Technology, in the Netherlands. My research is focused on assessing to which extent ethical concerns can influence citizens' acceptance of public projects, using [Participatory Value Evaluation](http://tudelft.nl/pwe), a new method that combines [Participatory Budgeting](http://pve.splicedgene.com/participatory-value-evaluation-transport-authority-amsterdam) experimental framework, with Behavioral Choice Models.
+I'm doing my PhD at the Delft University of Technology, in the Netherlands. My research is focused on assessing to which extent ethical concerns can influence citizens' acceptance of public projects, using [Participatory Value Evaluation](http://tudelft.nl/pwe), a new method that combines [Participatory Budgeting](http://pve.splicedgene.com/participatory-value-evaluation-transport-authority-amsterdam) experimental framework, with Behavioral Choice Models.
 
 In my free times I refill my caffeine requirements visiting new coffee places, bringing my camera to capture some good moments, mostly sunsets (I suck taking day pictures). Sometimes I also try to improve my programming skills trying to link it with my research interests (see below). I use mostly R and Matlab, and I am learning Python at utilitary level, and more recently the [Julia programming language](https://julialang.org/).
