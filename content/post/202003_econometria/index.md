@@ -44,4 +44,5 @@ Pueden acceder al curso desde los link indicados abajo:
   + [Video de sesion practica (parte 3)](https://youtu.be/owuknUzTWd4)
   + [Script](clase1.R)
 
-* Clase 2: Elementos de estadistica y probabilidad (proximamente...)
+* Clase 2: Elementos de estadistica y probabilidad I (Semana del 30 de marzo)
+* Clase 3: Elementos de estadistica y probabilidad II (Semana del 3 de abril)
