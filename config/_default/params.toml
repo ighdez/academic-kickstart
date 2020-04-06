@@ -50,7 +50,7 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "joseignaciohernandezh@gmail.com"
+email = "J.I.Hernandez@tudelft.nl"
 phone = ""
 address = "Jaffalaan 5, 2628 BX Delft, Netherlands"
 
@@ -112,7 +112,7 @@ gravatar = false
 menu_align_right = false
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display comment count (if commenting enabled in config.toml)? (true/false)
 comment_count = true
