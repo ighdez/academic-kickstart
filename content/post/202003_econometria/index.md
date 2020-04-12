@@ -44,11 +44,18 @@ Pueden acceder al curso desde los link indicados abajo:
   + [Video de sesion practica (parte 3)](https://youtu.be/owuknUzTWd4)
   + [Script](clase1.R)
 
-* Clase 2: Elementos de estadistica y probabilidad I (Semana del 30 de marzo)
+* Clase 2: Elementos de estadistica y probabilidad I
   + [Presentacion](clase_2_pres.pdf)
   + [Video de sesion teorica](https://youtu.be/uUTnAOzUTpU)
   + [Video de sesion practica](https://youtu.be/1ANEfYrLtgg)
   + [Script](practica_2.R)
   + [Base de datos](dat_clase2.xlsx)
 
-* Clase 3: Elementos de estadistica y probabilidad II (Semana del 3 de abril)
+* Clase 3: Elementos de estadistica y probabilidad II
+  + [Presentacion](clase_3_pres.pdf)
+  + [Video de sesion teorica (parte 1)](https://youtu.be/jBNdaMxtQOk)
+  + [Video de sesion teorica (parte 2)](https://youtu.be/56vmrOixkzc)
+  + Video de sesion practica
+  + Script
+
+* Clase 4: Modelo Clasico de Regresion Lineal (Semana del 13 de abril)
