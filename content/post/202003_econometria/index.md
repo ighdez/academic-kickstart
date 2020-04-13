@@ -55,7 +55,7 @@ Pueden acceder al curso desde los link indicados abajo:
   + [Presentacion](clase_3_pres.pdf)
   + [Video de sesion teorica (parte 1)](https://youtu.be/jBNdaMxtQOk)
   + [Video de sesion teorica (parte 2)](https://youtu.be/56vmrOixkzc)
-  + Video de sesion practica
-  + Script
+  + [Video de sesion practica](https://youtu.be/6Bgxqf_7r90)
+  + [Script](practica_3.R)
 
 * Clase 4: Modelo Clasico de Regresion Lineal (Semana del 13 de abril)
