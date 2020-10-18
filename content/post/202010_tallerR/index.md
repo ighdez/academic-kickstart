@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "202010_tallerR"
-subtitle: ""
+title: "Taller R UdeC"
+subtitle: "Para estudiantes de la Universidad de Concepción (y más)"
 summary: ""
 authors: []
 tags: []
