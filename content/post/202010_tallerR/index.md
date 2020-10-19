@@ -30,7 +30,7 @@ projects: []
 Bienvenidos al material de clase del taller de R para estudiantes de la Universidad de Concepción. Pueden acceder al material desde los siguientes enlaces:
 
 * Sesión 1: Introducción a R, manejo de bases de datos, estadistica descriptiva
-  + Diapositivas
+  + [Diapositivas](TallerR_2020_udec_clase_1.pdf)
   + [Base de datos en formato Stata](casen_r8_r16.dta)
   + [Script](clase_1_final.R)
 
