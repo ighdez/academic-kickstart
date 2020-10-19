@@ -9,7 +9,7 @@
 library(foreign)
 
 # Abrir base de datos desde internet
-dat = read.dta("https://ighdez.cl/post/202010_tallerR/clase_1_final.R")
+dat = read.dta("https://ighdez.cl/post/202010_tallerR/casen_r8_r16.dta")
 
 # Slice
 dat_10vars = dat[,1:10]                                 # 10 primeras variables
