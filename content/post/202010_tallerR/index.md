@@ -35,9 +35,9 @@ Bienvenidos al material de clase del taller de R para estudiantes de la Universi
   + [Script](clase_1_final.R)
 
 * Sesión 2: Visualización de datos con R
-  + Diapositivas
-  + Base de datos
-  + Script
+  + [Diapositivas](Clase2_tallerR.pdf)
+  + [Base de datos](casen_r8_r16.dta)
+  + [Script](clase_2_2020.R)
 
 * Sesión 3: Nociones de econometría con R
   + Diapositivas
