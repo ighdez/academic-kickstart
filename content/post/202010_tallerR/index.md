@@ -40,6 +40,6 @@ Bienvenidos al material de clase del taller de R para estudiantes de la Universi
   + [Script](clase_2_2020.R)
 
 * Sesión 3: Nociones de econometría con R
-  + Diapositivas
-  + Base de datos
-  + Script
+  + [Diapositivas](TallerR_2020_udec_clase3.pdf)
+  + [Base de datos](casen_r8_r16_v2.dta)
+  + [Script](clase_3.R)
